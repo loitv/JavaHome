@@ -26,7 +26,6 @@ public class SelectionSort {
 	}
 
 	public static void main(String[] args) {
-//		int[] arrayNum = { 1, 5, 7, 4, 10, 9, 8, 12, 15, 20, 6, 7 };
 		int[] arrayNum2 = new int[20];
 		for (int i = 0; i < arrayNum2.length; i++) {
 			int rand = new Random().nextInt(100);
